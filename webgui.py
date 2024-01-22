@@ -26,5 +26,3 @@ st.text_input(label="label it",
               label_visibility="hidden",placeholder= "enter your todo here",
               on_change=add_todo,
               key="ntodo")
-
-st.session_state
